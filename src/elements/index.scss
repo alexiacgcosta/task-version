@@ -1,6 +1,9 @@
 body{
-  height: 100%;
   background-color: #2D2D2D;
+}
+
+h1{
+  font-size: 1.5rem;
 }
 
 .modal_container{
@@ -78,17 +81,23 @@ body{
 }
 
 .table{
-  width: 90vw;
+  width: 100%;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   &_check{
     display: flex;
     justify-content: center;
   }
+  &:hover {
+    cursor: pointer;
+  }
   }
 
 td{
-  
+  &:hover {
+    cursor: pointer;
+    font-weight: bolder;
+  }
   input[type="checkbox"]{
     all:inherit;
     background-image: url('../assets/check.svg');
@@ -105,6 +114,15 @@ td{
       border: none;
       background-repeat: no-repeat;
     }
+
   }
 }
 
+tr {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #0C70F2;
+  border-radius: 1rem;
+  margin: 1%;
+}
