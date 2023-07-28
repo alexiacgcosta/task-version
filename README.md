@@ -6,7 +6,8 @@
 
 <h3> Branch Version-1</h3>
 <p> Versão original do projeto. </p>
-![Captura de tela 2023-07-12 055014](https://github.com/alexiacgcosta/tasks/assets/123133377/72e2ffd0-90c5-4745-a564-ccdcf583adf0)
+
+![Captura de tela 2023-07-12 055007](https://github.com/alexiacgcosta/task-version/assets/123133377/7a14d353-b5b9-4226-9761-7fbe7f1904be)
 
 <h3> Branch Main </h3>
 <p> Versão em desenvolvimento do projeto.</p>
@@ -14,6 +15,9 @@
 <li> Melhorias nos aspectos de acessibilidade</li>
 <li> Melhorias nos aspectos de estilo</li>
 </ul>
+
+![new-version](https://github.com/alexiacgcosta/task-version/assets/123133377/4db382f5-92bd-4821-8021-f716202bb94a)
+
 
 # Como rodar
 
